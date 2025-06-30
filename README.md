@@ -15,12 +15,13 @@
 - Fully function search bar
 - Also opens the file
 - Also deletes the file
+- You can share any file
+- You can bookmark any file
 - And there are many features written like selecting the image all is a lot of features to select the long press
 - For the demo, I have also given the option to download the PDF file in the download area, if you can remove it
 - and Lot more options and features in this app
 
 ## 📦 Packages Used
-  cupertino_icons: ^1.0.8
   get: ^4.7.2
   path_provider: ^2.1.5
   dio: ^5.8.0+1
